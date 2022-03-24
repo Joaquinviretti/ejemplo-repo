@@ -20,5 +20,5 @@ def main():
 
 if __name__ == '__main__':
     main()
-    num:5
+    num:2
 
